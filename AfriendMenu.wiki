@@ -23,61 +23,6 @@ The features are listed bellow
 
 
 = Details =
-The following describes how to implement it into your website
+The following is a link to the demo and download page in its original blog
 
-
-Add the following scripts to your page template
-
-<script type="text/javascript" src="js/jquery-1.js"></script>
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/facebook_vertical_menu.js"></script>
-
- 
-
-Add the following CSS to your page template
-
-<link href="css/fb_menu.css" rel="stylesheet" type="text/css"/>
-
- 
-
-Add the following customized jQuery code just above the head section
-
- 
- <script type="text/javascript">
-/* //If used along with other jquery framework other than v1.4.1
-//Uncomment this piece of code
-setInterval("update2()", 1000); // Update every 10 seconds 
-
-function update2()
-{$(function()
-{
-});
-}
-*/
-</script>
-
-Put all your menu items inside a UL tag like bellow
-
-<ul>
-        <li><a href="#wall.htm"><img src="images/blogs.png" height="14"/>Wall</a></li>        
-        <li><a href="#Information.htm" href="#"><img src="images/info.png" height="14"/>Info</a></li>        
-        <li><a href="#Friends.htm"><img src="images/friends.png" height="14"/>Friends</a></li>      
-        <li><a href="#Groups.htm"><img height="14" src="images/groups.png"/>Groups</a></li>
-        <li><a href="#Photos.htm"><img src="images/photos.png" height="14"/>Photos</a></li>
-        <li><a href="#Messages.htm"><img src="images/messages2.png" height="14"/>Messages</a></li>
-
-</ul>
-
-Here is the content area where the result will be displayed
-
-<div id="centercolumn">
-              <!-- single pane -->
-<div>
-
-  <div style="display: none;">
-
-</div>
-
-</div>
-
-</div>
+<a href="http://demos.afriend.in/facebook_vmenu/facebook_vertical_menu.php#wall.htm">Demo</a>   <a href="http://demos.afriend.in/url.php?url=http://www.box.com/s/kbmz48tvqfoo6kftzotk">Download</a>
