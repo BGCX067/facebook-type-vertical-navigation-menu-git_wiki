@@ -25,4 +25,4 @@ The features are listed bellow
 = Details =
 The following is a link to the demo and download page in its original blog
 
-<a href="http://demos.afriend.in/facebook_vmenu/facebook_vertical_menu.php#wall.htm">Demo</a>   <a href="http://demos.afriend.in/url.php?url=http://www.box.com/s/kbmz48tvqfoo6kftzotk">Download</a>
+<a href="http://demos.2lessons.info/facebook_vmenu/facebook_vertical_menu.php#wall.htm">Live Demo</a>   <a href="http://demos.2lessons.info/url.php?url=https://www.box.com/s/kbmz48tvqfoo6kftzotk">Download</a>
